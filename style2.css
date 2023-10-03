@@ -103,6 +103,10 @@ nav ul li a {
     padding: 40px;
 }
 
+#about p {
+    text-wrap: balance;
+}
+
 #about img {
     max-width: 200px;
     width: 100%;
