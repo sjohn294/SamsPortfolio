@@ -1,4 +1,4 @@
-# Sams portfolio ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Sams portfolio 
 
   ## Description
   This App is a portfolio containing a waork about me and contact section which can be scrolled to or reached directly through  anchor tags in the navigation bar in the header
